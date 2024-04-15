@@ -7,4 +7,4 @@ GWAS analysis using alignemnt tools bwa/bowtie2  and variant calling with samtoo
 
 Data Zygosity            |  K for PCA
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/GWAS/blob/main/Rplot02.png)  |  ![](https://github.com/hasanwraeth/snRNAseq/blob/main/Rplot03.png)
+![](https://github.com/hasanwraeth/GWAS/blob/main/Rplot02.png)  |  ![](https://github.com/hasanwraeth/GWAS/blob/main/Rplot03.png)
