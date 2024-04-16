@@ -18,7 +18,7 @@ Q-Q plot           |  Manhattan plot
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/GWAS/blob/main/Rplot01.png)  |  ![](https://github.com/hasanwraeth/GWAS/blob/main/Rplot.png)
 
-## Data analysis in linux and python with Plink
+## 1000 Genome project data analysis in linux and python with Plink
 Data Zygosity            |  Correlation between SNPs
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/GWAS/blob/main/Rplot02.png)  |  ![](https://github.com/hasanwraeth/GWAS/blob/main/Rplot05.png)
