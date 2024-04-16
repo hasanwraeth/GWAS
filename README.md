@@ -19,6 +19,11 @@ Q-Q plot           |  Manhattan plot
 ![](https://github.com/hasanwraeth/GWAS/blob/main/Rplot01.png)  |  ![](https://github.com/hasanwraeth/GWAS/blob/main/Rplot.png)
 
 ## 1000 Genome project data analysis in linux and python with Plink
-Data Zygosity            |  Correlation between SNPs
+Sample missing rate           |  SNP missing rate  
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/GWAS/blob/main/Rplot02.png)  |  ![](https://github.com/hasanwraeth/GWAS/blob/main/Rplot05.png)
+![](https://github.com/hasanwraeth/GWAS/blob/main/smiss.png)  |  ![](https://github.com/hasanwraeth/GWAS/blob/main/snpmiss.png)
+
+F<sub>HET</sub>          |  PCA
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/GWAS/blob/main/fhet.png)  |  ![](https://github.com/hasanwraeth/GWAS/blob/main/PCA.png)
+
