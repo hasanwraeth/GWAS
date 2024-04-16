@@ -5,6 +5,7 @@
 
 GWAS analysis using alignemnt tools bwa/bowtie2  and variant calling with samtools/bcftools and association analysis with PLINK/GWAStools.
 
+## Data analysis in R with Plink
 Data Zygosity            |  Correlation between SNPs
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/GWAS/blob/main/Rplot02.png)  |  ![](https://github.com/hasanwraeth/GWAS/blob/main/Rplot05.png)
