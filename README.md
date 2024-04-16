@@ -27,3 +27,6 @@ F<sub>HET</sub>          |  PCA
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/GWAS/blob/main/fhet.png)  |  ![](https://github.com/hasanwraeth/GWAS/blob/main/PCA.png)
 
+Manhattan plot       |  Manhattan<sup>regional</sup>  plot
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/GWAS/blob/main/man.png)  |  ![](https://github.com/hasanwraeth/GWAS/blob/main/man.png)
