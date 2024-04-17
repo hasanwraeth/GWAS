@@ -33,4 +33,4 @@ Manhattan plot       |  Manhattan<sup>regional</sup>  plot
 
 Polygenic risk score optimization          |  Distribution  
 :-------------------------:|:-------------------------:
-<img src="https://github.com/hasanwraeth/GWAS/blob/main/PRS_op.png" width="300">  |  ![](https://github.com/hasanwraeth/GWAS/blob/main/PRS_dist.jpg)
+![](https://github.com/hasanwraeth/GWAS/blob/main/PRS_op.png)  |  <img src="https://github.com/hasanwraeth/GWAS/blob/main/PRS_dist.jpg" width="675">
