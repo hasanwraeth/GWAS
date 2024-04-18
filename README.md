@@ -34,3 +34,11 @@ Manhattan plot       |  Manhattan<sup>regional</sup>  plot
 Polygenic risk score optimization          |  Distribution  
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/GWAS/blob/main/PRS_op.png)  |  <img src="https://github.com/hasanwraeth/GWAS/blob/main/PRS_dist.jpg" width="675">
+
+LD distribution       |  LD correlation
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/GWAS/blob/main/LD_Chr2.png)  |  ![](https://github.com/hasanwraeth/GWAS/blob/main/LD_corr.png)
+
+Manhattan plot for region on Chromosome 2
+:-------------------------:
+![](https://github.com/hasanwraeth/GWAS/blob/main/man_chr2.png)
