@@ -50,3 +50,7 @@ Manhattan plot for region on Chromosome 2
 Mendelian Randomization test      |  Forrest plot of effect size for BMI on T2D
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/GWAS/blob/main/mr_scat.png)  |  ![](https://github.com/hasanwraeth/GWAS/blob/main/mr_for.png)
+
+Leave one out analysis      |  Funnel plot
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/GWAS/blob/main/mr_leave.png)  |  ![](https://github.com/hasanwraeth/GWAS/blob/main/mr_fun.png)
