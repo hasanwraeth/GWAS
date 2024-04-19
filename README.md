@@ -47,6 +47,6 @@ Manhattan plot for region on Chromosome 2
 :-------------------------:
 ![](https://github.com/hasanwraeth/GWAS/blob/main/man_chr2.png)
 
-Mendelian Randomization test      |  Forrest plot for effect of BMI on T2D
+Mendelian Randomization test      |  Forrest plot of effect size for BMI on T2D
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/GWAS/blob/main/mr_scat.png)  |  ![](https://github.com/hasanwraeth/GWAS/blob/main/mr_for.png)
